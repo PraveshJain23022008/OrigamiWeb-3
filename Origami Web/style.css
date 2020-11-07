@@ -1,0 +1,81 @@
+.Name {
+    display: flex;
+    justify-content: center;
+    border: double rgb(255, 136, 0);
+}
+.Menu {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #06eecf;
+    background-color: palevioletred;
+    padding: 15px;
+    
+    
+}
+
+.Camel {
+    display: flex;
+    justify-content: center;
+    border: outset gold;
+    flex-wrap: wrap;
+    width: 800px;
+    }
+    .Camelli {
+        display: flex;
+        justify-content: center;
+        border: groove skyblue;
+        flex-wrap: wrap;
+        width: 800px;
+        }
+
+.Pigeon {
+    display: flex;
+    justify-content: center;
+    border: outset silver;
+    flex-wrap: wrap;
+    width: 500px;
+}
+.Teddy {
+    display: flex;
+    justify-content: center;
+    border: outset rgb(0, 255, 0);
+    flex-wrap: wrap;
+    width: 500px;
+}
+.Cicada {
+    display: flex;
+    justify-content: center;
+    border: double violet;
+    flex-wrap: wrap;
+    width: 500px;
+    }
+.Panda {
+    display: flex;
+    justify-content: center;
+    border: groove rgb(0, 204, 255);
+    flex-wrap: wrap;
+    width: 800px;
+}
+
+
+
+
+.greetings {
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cyan;
+} 
+
+
+body {
+  margin: 0px;
+    background-color: rgb(253, 0, 219);
+}
